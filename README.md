@@ -1,6 +1,11 @@
 # sequelize-crud-api
 
-# React Wallet
+![alt text](https://github.com/Arunagnz/sequelize-crud-api/blob/master/resources/sequelize.jpg?raw=true)
+
+Database utility:
+
+* [sequelize](https://www.npmjs.com/package/sequelize)
+  * Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more. Sequelize follows Semantic Versioning.
 
 Includes API Server utilities:
 
