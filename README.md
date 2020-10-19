@@ -1,6 +1,6 @@
 # sequelize-crud-api
 
-![alt text](https://github.com/Arunagnz/sequelize-crud-api/blob/main/resources/sequelize.png?raw=true)
+![alt text](https://github.com/Arunagnz/sequelize-crud-api/blob/master/resources/sequelize.png?raw=true)
 
 Database utility:
 
