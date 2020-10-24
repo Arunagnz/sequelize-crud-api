@@ -1,4 +1,4 @@
-authendicate = (req, res, next) => {
+module.exports = (req, res, next) => {
   const { token } = req.headers;
   if (token == "secret") next();
   else
@@ -7,5 +7,3 @@ authendicate = (req, res, next) => {
       error: "unauthorized",
     });
 };
-
-module.exports = authendicate;
